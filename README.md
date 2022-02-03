@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 # Suffixes applicable	Media type and subtype(s)
 <br>.3dm	- x-world/x-3dmf
